@@ -1,1 +1,1 @@
-# swea
+# SW Expert Academy
